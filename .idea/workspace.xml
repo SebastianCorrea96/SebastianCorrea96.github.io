@@ -2,177 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22e74a4e-2ad6-4f3b-97fc-adf900034bff" name="Default" comment="Este es el primer commit de mi pagina web">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/cabin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/cake.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/circus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/game.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/profile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/safe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/submarine.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_spinning.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/cbpAnimatedHeader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/cbpAnimatedHeader.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/classie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/contact_me.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mail/contact_me.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/freelancer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/freelancer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/freelancer.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jqBootstrapValidation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/spinning.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/variables.less" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\assets\css\theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\grunt\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\grunt\bs-commonjs-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\grunt\bs-glyphicons-data-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\grunt\bs-lessdoc-parser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\grunt\bs-raw-files-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\grunt\configBridge.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\grunt\sauce_browsers.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\js\affix.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\js\alert.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\js\button.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\js\carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\js\collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\js\dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\js\modal.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\js\popover.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\js\scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\js\tab.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\js\tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\js\transition.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\badges.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\close.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\code.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\forms.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\grid.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\labels.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\media.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\background-variant.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\border-radius.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\center-block.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\clearfix.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\forms.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\gradients.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\grid-framework.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\grid.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\hide-text.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\image.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\labels.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\nav-divider.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\nav-vertical-align.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\opacity.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\panels.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\progress-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\reset-filter.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\reset-text.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\resize.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\responsive-visibility.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\size.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\tab-focus.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\table-row.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\text-emphasis.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\text-overflow.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\mixins\vendor-prefixes.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\modals.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\navs.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\pager.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\panels.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\print.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\responsive-embed.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\tables.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\theme.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\type.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\variables.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\less\wells.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\package.json" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\assets\css\bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="MOVED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\dist\js\bootstrap.js" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
-      <change type="MOVED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="C:\Users\Sebastián Siza\Documents\GitHub\SebastianCorrea96.github.io\SebastianCorrea96.github.io\node_modules\bootstrap\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Sebastián_Siza.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -195,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4450262">
-              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.030139936">
+              <caret line="229" column="34" selection-start-line="229" selection-start-column="34" selection-end-line="229" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -279,6 +109,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SebastianCorrea96.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SebastianCorrea96.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -350,7 +194,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1280" height="1400" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27858293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -358,7 +202,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22537431" sideWeight="0.5032206" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22537431" sideWeight="0.49677938" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22537431" sideWeight="0.49677938" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -386,8 +230,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4450262">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.28481674">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030139936">
+          <caret line="229" column="34" selection-start-line="229" selection-start-column="34" selection-end-line="229" selection-end-column="34" />
           <folding />
         </state>
       </provider>
